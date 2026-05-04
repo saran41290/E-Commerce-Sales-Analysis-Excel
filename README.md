@@ -22,18 +22,26 @@ This project presents a descriptive and exploratory analysis of a 2,000-transact
 - Pivot Tables
 - Data Visualization
 
-## Key Insights
-- The North region leads overall sales performance
-- Sports and Electronics are the top-performing categories
-- The online channel contributes 41% of total sales
-- Sales show a strong seasonal peak in Q4
-- Female customers have a higher presence in premium loyalty tiers
+## Key Findings and Insights
+### 1) Revenue and region
+- The business generated ₹21,74,394.70 in total revenue, and the North region contributes about 31% of sales, making it the strongest regional market while the West underperforms.
+- To improve geographic balance, the company should increase targeted campaigns and inventory support in the West region over the next quarter to reduce overdependence on North-led sales.
 
-## Business Recommendations
-- Increase marketing efforts in the West region
-- Expand inventory for Sports and Electronics
-- Strengthen digital payment promotions
-- Optimize online channel operations
+### 2) Seasonality and promotions
+- Sales show clear peaks in Q4 and March–April, with November 2024 recorded as the highest-revenue month, and the report notes that 14%–16% discounting supports stronger revenue periods.
+- The business should align inventory and promotional planning before Q4 and early Q2 in the next sales cycle to capture seasonal demand without excessive discounting.
+
+### 3) Payment behavior
+- Payment usage is distributed across COD (660 orders), Credit Card (645), and PayPal (695), but average order value is higher for Credit Card (₹1,108.81) and PayPal (₹1,088.86) than for COD (₹1,064.33).
+- This means digital payment users are slightly higher-value customers, so the business should promote digital-payment offers in the next campaign cycle to lift average order value further.
+
+### 4) Loyalty and gender
+- Female customers are more concentrated in premium tiers, with 82 female vs 63 male customers in Platinum and 68 female vs 54 male customers in Gold, while males are slightly higher in Bronze at 66 vs 61.
+- The business should launch a next-quarter loyalty upgrade campaign targeting Bronze and Silver male customers while preserving female Platinum retention with exclusive rewards.
+
+### 5) Channel performance
+- The Online channel contributes 41% of sales, Flagship 40%, and Outlet 19%, showing that growth is mainly driven by Online and Flagship while Outlet trails significantly.
+- The company should focus its next-quarter channel strategy on online growth and outlet repositioning through pricing, assortment, or promotions.
 
 ## Dashboard Preview
 <img src="Dashboard.png" alt="E-Commerce Sales Dashboard" width="1000"/>
