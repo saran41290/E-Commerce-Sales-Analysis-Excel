@@ -22,6 +22,9 @@ This project presents a descriptive and exploratory analysis of a 2,000-transact
 - Pivot Tables
 - Data Visualization
 
+## Dashboard Preview
+<img src="Dashboard.png" alt="E-Commerce Sales Dashboard" width="1000"/>
+
 ## Key Findings and Insights
 ### 1) Revenue and region
 - The business generated ₹21,74,394.70 in total revenue, and the North region contributes about 31% of sales, making it the strongest regional market while the West underperforms.
@@ -42,9 +45,6 @@ This project presents a descriptive and exploratory analysis of a 2,000-transact
 ### 5) Channel performance
 - The Online channel contributes 41% of sales, Flagship 40%, and Outlet 19%, showing that growth is mainly driven by Online and Flagship while Outlet trails significantly.
 - The company should focus its next-quarter channel strategy on online growth and outlet repositioning through pricing, assortment, or promotions.
-
-## Dashboard Preview
-<img src="Dashboard.png" alt="E-Commerce Sales Dashboard" width="1000"/>
 
 ## Conclusion
 The analysis highlights a stable sales structure with clear opportunities for growth in digital channels, regional expansion, and high-performing product categories.
